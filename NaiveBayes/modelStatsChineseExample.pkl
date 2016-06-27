@@ -1,0 +1,54 @@
+(dp0
+S'macao_1'
+p1
+S'1, 0.125000'
+p2
+sS'macao_0'
+p3
+S'0, 0.000000'
+p4
+sS'chinese_1'
+p5
+S'1, 0.625000'
+p6
+sS'chinese_0'
+p7
+S'0, 0.333333'
+p8
+sS'prior'
+p9
+S'0, 1.000000, 0.250000, 0.750000'
+p10
+sS'japan_0'
+p11
+S'0, 0.333333'
+p12
+sS'japan_1'
+p13
+S'1, 0.000000'
+p14
+sS'shanghai_0'
+p15
+S'0, 0.000000'
+p16
+sS'shanghai_1'
+p17
+S'1, 0.125000'
+p18
+sS'tokyo_0'
+p19
+S'0, 0.333333'
+p20
+sS'tokyo_1'
+p21
+S'1, 0.000000'
+p22
+sS'beijing_0'
+p23
+S'0, 0.000000'
+p24
+sS'beijing_1'
+p25
+S'1, 0.125000'
+p26
+s.
